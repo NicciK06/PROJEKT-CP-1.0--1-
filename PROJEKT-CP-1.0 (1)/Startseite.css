@@ -1,0 +1,136 @@
+p {
+   margin: 0;
+   text-align: center;
+   margin-top: -1em ;
+   margin-bottom: -1em ;
+
+ }
+ 
+ #typewriter {   text-align: center;
+  
+
+
+  font-size: 2em;
+   margin: 0;
+   font-family: "Courier New";
+ }
+
+ 
+ @-webkit-keyframes blink {
+   0% {
+     opacity: 0;
+   }
+   100% {
+     opacity: 1;
+   }
+ }
+ @keyframes blink {
+   0% {
+     opacity: 0;
+   }
+   100% {
+     opacity: 1;
+   }
+ }
+
+h1 {font-size: 100px;
+color: black;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+margin-top: 0em ;
+margin-bottom: 0.2em ;
+
+
+}
+
+h2 {font-size: 100px;
+   color: black;
+   text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+   margin-top: -1em ;
+   margin-bottom: 0em ;
+   
+   }
+
+#myButton {display:block;
+  position: absolute;
+    top: 420px;
+    left: 620px;
+    
+margin:0 auto;
+font-size: 45px;
+background-color: rgb(30, 138, 16);
+border-radius: 20%;
+border: 5px solid black;
+font-weight: bold;
+margin-bottom: 0.3em ;
+}
+
+
+#myButton2 {display:block;
+  position: absolute;
+    top: 420px;
+    left: 830px;
+  margin:0 auto;
+  font-size: 45px;
+  background-color: rgb(32, 32, 226);
+  border-radius: 20%;
+  border: 5px solid black;
+  font-weight: bold;
+  margin-bottom: 0.3em ;
+  }
+  #myButton2img {
+    margin-right: 5px;
+    vertical-align: middle;
+  }
+  #myButton3 {display:block;
+    position: absolute;
+    top: 420px;
+    left: 350px;
+    margin:0 auto;
+    font-size: 45px;
+    background-color: rgb(166, 174, 179);
+    border-radius: 20%;
+    border: 5px solid black;
+    font-weight: bold;
+    margin-bottom: 0.3em ;
+    }
+
+body{background-color: rgb(127, 209, 245);}
+
+#logo {position: absolute;
+  top: 20px;
+  left:910px;
+  width: 200px;
+}
+#Cloud1 {position: absolute;
+top: 480px;
+left:65px;}
+#Cloud2 {position: absolute;
+top: 520px;
+left:900px;
+width: 375px;}
+ #Cloud3 {position: absolute;
+top: 100px;
+left:1240px;
+width: 190px;}
+ #Cloud4 {position: absolute;
+top: 60px;
+left: 60px;
+width: 150px;}
+#Airplane {position: absolute;
+ top: 470px;
+ left: 150px;
+    }
+ #Drone1 {position: absolute;
+ top: 70px;
+ left:1000px;
+ width: 175px;}
+#Drone2 {position: absolute;
+   top: 220px;
+   left:1100px;
+   width: 300px;}
+#Drone3 {position: absolute;
+      top: 120px;
+      left:100px;
+      width: 250px;}
